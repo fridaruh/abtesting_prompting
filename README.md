@@ -16,7 +16,7 @@ This React component allows users to perform A/B testing using the OpenAI API. I
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/openai-ab-testing.git
+git clone https://github.com/fridaruh/openai-ab-testing.git
 cd openai-ab-testing
 
 2. Install dependencies:
@@ -56,7 +56,7 @@ The component uses React hooks for state management and side effects.
 
 ## Customization
 
-You can customize the appearance of the component by modifying the shadcn/ui components used. Refer to the [shadcn/ui documentation](https://ui.shadcn.com/) for more information on customizing these components.
+You can customize the appearance of the component by modifying the shadcn/ui components used. 
 
 ## Environment Variables
 
